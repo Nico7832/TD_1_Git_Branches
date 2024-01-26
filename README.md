@@ -1,5 +1,6 @@
 # TD_1_Git_Branches
 <<<<<<< HEAD
+<<<<<<< HEAD
 Salut
 ca va
 et toi
@@ -13,4 +14,11 @@ ok
 #
 #
 #
+>>>>>>> main
+=======
+Jeremy
+Nicolas
+Jules
+Clément
+A
 >>>>>>> main
